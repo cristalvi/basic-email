@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style type="text/css"> 
+        
+        @import url(http://fonts.googleapis.com/css?family=Roboto:300); /* CHOOSE A WEB FONT */
+        
+        /* Some RESETS AND issue FIXES */
+        #outlook a { padding:0; }
+        body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; }     
+        .ReadMsgBody { width: 100%; }
+        .ExternalClass {width:100%;} 
+        .backgroundTable {margin:0 auto; padding:0; width:100%;!important;} 
+        table td {border-collapse: collapse;}
+        .ExternalClass * {line-height: 115%;}           
+        /* End reset */
+        
+        /* These are our tablet/medium screen MEDIA QUERIES */
+        @media screen and (max-width: 630px) {
+        /* Display block allows us to stack elements */                      
+                *[class="mobile-column"] {display: block;} 
+        /* Some more stacking elements */
+                *[class="mob-column"] {float: none !important;width: 100% !important;}  
+        /* Hide stuff */
+                *[class="hide"] {display:none !important;}  
+        /* This sets elements to 100% width and fixes the height issues too, a god send */
+                *[class="100p"] {width:100% !important; height:auto !important;}    
+        /* For the 2x2 stack */            
+                *[class="condensed"] {padding-bottom:40px !important; display: block;}
+        /* Centers content on mobile */
+                *[class="center"] {text-align:center !important; width:100% !important; height:auto !important;} 
+        /* 100percent width section with 20px padding */
+                *[class="100pad"] {width:100% !important; padding:20px;} 
+        /* 100percent width section with 20px padding left & right */
+                *[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px;} 
+        /* 100percent width section with 20px padding top & bottom */
+                *[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px;} 
+        }
+    </style>
+</head>
+
+<body style="padding:0; margin:0">
+
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
+    <tr>
+        <td align="center" valign="top">
+            
+            <!--opening table-->
+            <table width="640" cellspacing="0" cellpadding="0" bgcolor="#" class="100p">
+                <tr>
+                    <td bgcolor="#ffffff" width="640" valign="top" class="100p">
+                        <!--[if gte mso 9]>
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:640px;">
+                            <v:fill type="tile" src="images/header-bg.jpg" color="#3b464e" />
+                            <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+                                <![endif]-->
+                                <div>
+
+                                    <!--HERO content table-->
+                                    <table width="640" border="0" cellspacing="0" cellpadding="20" class="100p">
+                                        <tr>
+                                            <td valign="top">
+						                        <table border="0" cellspacing="0" cellpadding="0" width="600" class="100p">
+                                                <!--header-->
+						                            <tr><!--nav-->
+						                                <td width="50%" class="hide" align="right">
+						                                  <a href="http://www.cristalfernett.com"><img src="https://i.imgur.com/WxVmEpe.png" width="25px"/></a>      
+						                                  <a href="mailto:creative@cristalfernett.com"><img src="https://i.imgur.com/cxqQqCi.png" width="25px"/></a>     
+						                                  <a href="http://www.linkedin.com/in/cristalvi"><img src="https://i.imgur.com/H1r64hP.png" width="25px"/></a>      
+						                                  <a href="http://www.facebook.com/cristalvisays"><img src="https://i.imgur.com/TEmOSBu.png" width="25px"/></a>     
+						                                  <a href="http://www.twitter.com/cristalvisays"><img src="https://i.imgur.com/oDJrWRd.png" width="25px"/></a>
+						                                </td>
+						                            </tr>
+						                            <tr><!--logo-->
+						                                <td align="center" width="50%" class="100p"><a href="http://www.cristalfernett.com"><img src="https://i.imgur.com/W7ULXNs.jpg" alt="Logo" width="470px" border="0" style="display: block;" /></a></td>
+						                            </tr>
+                                                <!--body-->
+                                                    <tr><!--banner-->
+                                                        <td align="center" width="50%" class="100p"><a href="http://www. "><img src="https://i.imgur.com/fhwdsnZ.jpg" alt="Image" width="100px" border="0" style="display: block;" /></a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height="35"></td>
+                                                    </tr>
+                                                    <tr><!--content-->
+                                                        <td align="left" style="color:#666666; font-size:13px; line-height:1.7em; padding-left:40px; padding-right:40px;">
+                                                            <font face="'Roboto', Arial, sans-serif">
+
+<!--                                                         PLACE CONTENT HERE -->
+                                                                <span style="font-size:17px;">Hello,</span>
+                                                                <br /><br />
+                                                                <Span style="font-size:13px;">
+                                                                .
+                                                                
+                                                                <br /><br /><br /><br /><br />
+                                                            <!-- SIGNATURE -->
+                                                                <span style="font-size:17px;">Sincerely,</span><br /><br />
+                                                                <span style="font-size:17px;">Cristal Fernett</span><br />
+                                                                <span style="font-size:15px;">Freelance Graphic Designer</span><br />
+                                                                <span style="font-size:14px; text-decoration: none;">253-344-7100</span><br />
+                                                            <!-- PICK A MAILBOX -->
+                                                                <span style="font-size:15px;"><a href="mailto:creative@cristalfernett.com" style="color: #0096cf; font-size: 15px; text-decoration: none;">creative@cristalfernett.com</a></span><br />
+                                                                <span style="font-size:15px;"><a href="http://www.cristalfernett.com" style="color:#0096cf; font-size:15px; text-decoration:none;">www.cristalfernett.com</a></span><br />
+                                                            </font>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height="35"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <!--[if gte mso 9]>
+                            </v:textbox>
+                        </v:rect>
+                        <![endif]-->
+                    </td>
+                </tr>
+            </table>
+
+            <!--second table, COLOR BAR
+            <table width="640" border="0" cellspacing="0" cellpadding="20" bgcolor="#2a8e9d" class="100p">
+                <tr>
+                    <td align="center" style="font-size:21px; color:#FFFFFF;"><font face="'Roboto', Arial, sans-serif">Why Crowder?</font></td>
+                </tr>
+            </table>-->
+
+            <!--footer-->
+            <table width="640" border="0" cellspacing="0" cellpadding="20" bgcolor="#ffffff" class="100p">
+                <tr>
+                    <td align="center" style="font-size:13px; color:#848484;"><font face="'Roboto', Arial, sans-serif">
+                        <br />
+                        <span style="font-size:13px;">Copyright &copy; 2017 Cristal Fernett Designs, All rights reserved.</span></font>
+                    </td><!--
+                <tr>
+                    <td align="center" style="font-size:13px; color:#848484;"><font face="'Roboto', Arial, sans-serif">
+                        <br />
+                        <span style="font-size:13px;">*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*</span><br />
+
+						<span style="font-size:13px;">Our mailing address is:</span><br />
+						<span style="font-size:13px;">*|HTML:LIST_ADDRESS_HTML|* *|END:IF|*</span><br />
+
+						<span style="font-size:13px;">Update your preferences to change how you receive these emails, or unsubscribe.</span><br />
+
+						<span style="font-size:13px;">*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*</span><br /></font>
+					</td>
+				</tr>-->
+                </tr>
+            </table>
+
+        </td>
+    </tr>
+ </table>
